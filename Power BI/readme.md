@@ -1,6 +1,6 @@
 ##Business Problem
 
-The HR department lacked a centralized view of workforce demographics, compensation structure, and employee experience, making workforce planning and talent management decisions more difficult.
+we needed a view of workforce demographics, compensation structure, and employee experience, to make workforce planning and talent management decisions easier.
 
 ##Key Insights
 
