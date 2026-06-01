@@ -1,8 +1,8 @@
-##Business Problem
+## Business Problem
 
-we needed a view of workforce demographics, compensation structure, and employee experience, to make workforce planning and talent management decisions easier.
+We needed a view of workforce demographics, compensation structure, and employee experience, to make workforce planning and talent management decisions easier.
 
-##Key Insights
+## Key Insights
 
 - Senior employees receive significantly higher compensation compared to junior levels.
 
@@ -16,7 +16,7 @@ we needed a view of workforce demographics, compensation structure, and employee
 - Average employee age differs by role, indicating varying workforce maturity across departments.
 
 
-##Recommendations
+## Recommendations
 
 
 - Review workforce diversity initiatives to improve gender balance where needed.
